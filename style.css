@@ -14,14 +14,14 @@ html,body {
   background-size: cover;
 }
 
+
 header {
-  display: flex;
+  display:flex;
   justify-content: space-between;
   align-items:center;
   background-color: #0c0c0c;
   color: rgb(175, 13, 207);
-  padding: 15px 40px;
-
+  padding: 25px 50px;
 }
 
 .logo {
@@ -55,4 +55,13 @@ h1 {
   position:relative;
   left: 100px;
   top: 170px;
+}
+
+.header1 {
+  display:ruby;
+  justify-content: space-between;
+  align-items:center;
+  background-color: #0c0c0c;
+  color: rgb(175, 13, 207);
+  padding: 25px 50px;
 }
