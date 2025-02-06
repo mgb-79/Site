@@ -19,8 +19,8 @@ header {
   display:flex;
   justify-content: space-between;
   align-items:center;
-  background-color: #0c0c0c;
-  color: rgb(175, 13, 207);
+  background-color: #000000;
+  color: rgb(143, 51, 166);
   padding: 25px 50px;
 }
 
